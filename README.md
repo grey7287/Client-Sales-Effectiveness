@@ -1,4 +1,4 @@
-**Data Science CLINET PROJECT**
+**Data Science CLIENT PROJECT**
 
 **Client: Sales Effectiveness | Category: Product Sales**
 
