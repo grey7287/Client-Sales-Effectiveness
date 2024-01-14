@@ -23,6 +23,8 @@ PROJECT GOAL:
 2. ML model to predict the Lead Category (High Potential , Low
 Potential)
 
+**AFTER PROJECT COMPLETION**
+
 ### Insights and Recommendations:
 
 1. **Source and Sales Agent Strategies:**
